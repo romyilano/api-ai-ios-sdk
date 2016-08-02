@@ -1,0 +1,6 @@
+framework module Pods_ApiAIDemo {
+  umbrella header "Pods-ApiAIDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
